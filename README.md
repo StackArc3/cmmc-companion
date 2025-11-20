@@ -13,10 +13,11 @@
 No installation. No accounts. No data collection. Auditors love the transparency.
 
 ### Direct Download (latest release)
-https://github.com/StackArc3/cmmc-companion/releases/latest/download/cmmc-companion-v2.1.html
+https://github.com/StackArc3/cmmc-companion/releases/latest/download/cmmc-companion-v2.1.html](https://github.com/StackArc3/cmmc-companion/releases/download/v2.1/cmmc-compliance-companion-v2.1.html
+
 
 ### User Manual (PDF)
-https://github.com/StackArc3/cmmc-companion/releases/latest/download/cmmc-companion-User-Manual-v2.1.pdf
+https://github.com/StackArc3/cmmc-companion/releases/latest/download/cmmc-companion-User-Manual-v2.1.pdf](https://github.com/StackArc3/cmmc-companion/releases/download/v2.1/cmmc-companion-User-Manual-v2.1.pdf
 
 Verified compliant with:
 - NIST FIPS 186-5
